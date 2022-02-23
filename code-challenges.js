@@ -87,3 +87,11 @@ const number2 = 100
 // Set two:
 const number3 = 27
 const number4 = 24
+
+// Input: l1 = 100 - 58
+// Output: 42
+// Explanation: Number represented as  lists are 100 and 58, so 100 - 58 is 42
+
+// Input: l1 = 100 - 58 ,  l2 = 27 - 24
+// Output: 3
+// Explanation: Number represented as lists are 27 and  24, so 27 - 24 is 3,  as the smaller value is subtracted from the larger one.
