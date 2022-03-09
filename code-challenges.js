@@ -84,9 +84,21 @@ console.log(finalArray)
 const number1 = 58
 const number2 = 100
 
+var number1 = 58
+var number2 = 100
+
+console.log(subtracted(number2, number1))
+// output --> 42
+
+
 // Set two:
 const number3 = 27
 const number4 = 24
+
+var number3 = 27
+var number4 = 24
+console.log(subtracted(myNumber3, myNumber4))
+// output --> 3
 
 // Input: l1 = 100 - 58
 // Output: 42
